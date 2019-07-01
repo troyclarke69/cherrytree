@@ -1,0 +1,110 @@
+{
+  "main": {
+    "name":"CherryTree Co.",
+    "occupation":"",
+    "description":"Digital Services",
+    "image":"",
+    "bio":"",
+    "contactmessage":"Please feel free to drop me a line.",
+    "email": "teclarke@rogers.com",
+    "phone": "365-777-8259",
+    "address":{
+      "street":"",
+      "city":"Toronto",
+      "state":"ON.",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"",
+        "url":"",
+        "className":""
+      },
+      {
+        "name":"",
+        "url":"",
+        "className":""
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Proficiency levels of the following skillsets:",
+    
+    "work":[
+      {
+        "company":"Website Development",
+        "title":"",
+        "years":"",
+        "description":"",
+		"highlights": [
+                ""
+            ]	
+      },
+      {
+        "company":"Data Services",
+        "title":"",
+        "years":"",
+        "description":"",
+		"highlights": [
+                ""
+            ]
+      }
+    ],
+	"education":[
+      {
+        "school":"",
+        "degree":"",
+        "graduated":"",
+        "description":""
+      }
+    ],
+    "skills":[
+	  {
+        "name":"",
+        "level":""
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Time Entry Sample App",
+        "category":"PHP, AJAX, JSON, SQL",
+        "image":"ctmLink.jpg",
+        "url":"http://triosdevelopers.com/~T.Clarke/ctm"
+      },
+	  {
+        "title":"Shopping Cart Sample App",
+        "category":"PHP, SQL",
+        "image":"link6.jpg",
+        "url":"http://triosdevelopers.com/~T.Clarke/goshop/"
+      },
+	  {
+        "title":"Angular Todo Sample App",
+        "category":"Angular, JSON",
+        "image":"link7.jpg",
+        "url":"http://triosdevelopers.com/~T.Clarke/AngularJS/"
+      },
+	  {
+        "title":"Mobile Sample App",
+        "category":"Xamarin, SQL",
+        "image":"hair.png",
+        "url":"http://triosdevelopers.com/~T.Clarke/HairBook/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
