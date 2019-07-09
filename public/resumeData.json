@@ -4,13 +4,13 @@
     "occupation":"",
     "description":"Digital Services",
     "image":"",
-    "bio":"",
+    "bio":"The CherryTree Co.: • uses emerging and existing technology platforms to design, develop, test and implement solutions and functionality that streamline, support and elevate your business. • will code, test, debug, support and document existing systems. • helps drive the design, development and implementation of a full reporting system to increase access to data and analytics. • works on the full SDLC for client-based projects. • will build out requirements, start the design and work on the deliverables. • takes a hands-on approach to client relationships. ",
     "contactmessage":"Please feel free to drop me a line.",
     "email": "teclarke@rogers.com",
     "phone": "365-777-8259",
     "address":{
       "street":"",
-      "city":"Toronto",
+      "city":"",
       "state":"ON.",
       "zip": ""
     },
@@ -34,10 +34,10 @@
     
     "work":[
       {
-        "company":"Website Development",
+        "company":"Web Development",
         "title":"",
         "years":"",
-        "description":"",
+        "description":"Need a site to advertise your business? Want to sell products online? Need a portal to enhance your customer relationships and give your employees flexibility and convenience? Perhaps you want a blog, or a place to exhibit some photos or the new songs you wrote? Maybe you want a new front-end hooked into your back-end data?",
 		"highlights": [
                 ""
             ]	
@@ -46,7 +46,7 @@
         "company":"Data Services",
         "title":"",
         "years":"",
-        "description":"",
+        "description":"Perhaps you need some custom data objects created to facilitate a workflow process or you may need some data migrated or integrated across your platforms? Need a report, or a tweak to that existing one? Get some cool analytics, reports and charts on your dashboards? Maybe it is taking far too long for that batch process to complete each evening?",
 		"highlights": [
                 ""
             ]
