@@ -37,18 +37,18 @@
         "company":"Web Development",
         "title":"",
         "years":"",
-        "description":"Need a site to advertise your business? Want to sell products online? Need a portal to enhance your customer relationships and give your employees flexibility and convenience? Perhaps you want a blog, or a place to exhibit some photos or the new songs you wrote? Maybe you want a new front-end hooked into your back-end data?",
+        "description":"",
 		"highlights": [
-                ""
+                "Need a site to advertise your business? Want to sell products online? Need a portal to enhance your customer relationships and give your employees flexibility and convenience? Perhaps you want a blog, or a place to exhibit some photos or the new songs you wrote? Maybe you want a new front-end hooked into your back-end data?"
             ]	
       },
       {
         "company":"Data Services",
         "title":"",
         "years":"",
-        "description":"Perhaps you need some custom data objects created to facilitate a workflow process or you may need some data migrated or integrated across your platforms? Need a report, or a tweak to that existing one? Get some cool analytics, reports and charts on your dashboards? Maybe it is taking far too long for that batch process to complete each evening?",
+        "description":"",
 		"highlights": [
-                ""
+                "Perhaps you need some custom data objects created to facilitate a workflow process or you may need some data migrated or integrated across your platforms? Need a report, or a tweak to that existing one? Get some cool analytics, reports and charts on your dashboards? Maybe it is taking far too long for that batch process to complete each evening?"
             ]
       }
     ],
