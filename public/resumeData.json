@@ -82,17 +82,11 @@
         "url":"http://triosdevelopers.com/~T.Clarke/goshop/"
       },
 	  {
-        "title":"Angular Todo Sample App",
-        "category":"Angular, JSON",
-        "image":"link7.jpg",
-        "url":"http://triosdevelopers.com/~T.Clarke/AngularJS/"
-      },
-	  {
-        "title":"Mobile Sample App",
-        "category":"Xamarin, SQL",
-        "image":"hair.png",
-        "url":"http://triosdevelopers.com/~T.Clarke/HairBook/"
-      }
+        "title":"DaVinci Salon & Spa",
+        "category":"Coming soon",
+        "image":"",
+        "url":""
+          }
     ]
   },
   "testimonials":{
