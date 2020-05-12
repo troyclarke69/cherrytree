@@ -70,23 +70,35 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Time Entry Sample App",
+        "title":"Surveyor - Online surveys",
+        "category":"Angular(9), Python (API)",
+        "image":"surveyor.jpg",
+        "url":"https://surveyor-app.netlify.app"
+      },
+      {
+        "title":"Coronavirus Update Live",
+        "category":"Angular(9), Python (API), 3rd-party APIs",
+        "image":"corona.jpg",
+        "url":"https://corona-now.netlify.app"
+      },
+      {
+        "title":"Time Entry (Sample App)",
         "category":"PHP, AJAX, JSON, SQL",
         "image":"ctmLink.jpg",
         "url":"http://triosdevelopers.com/~T.Clarke/ctm"
       },
 	  {
-        "title":"Shopping Cart Sample App",
+        "title":"Shopping Cart (Sample App)",
         "category":"PHP, SQL",
         "image":"link6.jpg",
         "url":"http://triosdevelopers.com/~T.Clarke/goshop/"
       },
-	  {
-        "title":"DaVinci Salon & Spa",
-        "category":"Coming soon",
-        "image":"http://triosdevelopers.com/~T.Clarke/davinci/images/dV_logo2.jpg",
-        "url":"http://triosdevelopers.com/~T.Clarke/davinci/"
-          }
+      {
+        "title":".NET MVC -- COMING SOON!",
+        "category":"ASP.Net Core MVC",
+        "image":"win.jpg",
+        "url":""
+      }
     ]
   },
   "testimonials":{
